@@ -17,7 +17,7 @@
             hold-trigger-key-positions = <36>;
             bindings = <&kp>, <&kp>;
 
-            tapping-term-ms = <70>;
+            tapping-term-ms = <300>;
             flavor = "tap-preferred";
         };
     };
